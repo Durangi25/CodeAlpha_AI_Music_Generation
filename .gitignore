@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+
+# optional generated outputs
+generated/
+
+# optional large model files
+*.h5
+*.keras
